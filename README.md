@@ -44,6 +44,5 @@
 ## Connect with me  
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0A66C2)](https://linkedin.com/in/chitrakumarsai)  
-[![Learn More]([https://img.shields.io/badge/-Twitter-000?&logo=Twitter&logoColor=1DA1F2)](https://twitter.com/chitrakumarsai](https://chitrakumarsai.github.io/))  
 
 Thanks for visiting my profile! Have a great day! 😊  
