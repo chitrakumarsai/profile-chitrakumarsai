@@ -36,13 +36,14 @@
 ## Projects  
 
 ### Current project AI-Driven Customer Support Agent  
-- **Description:** Implemented using **LangChain** and **LangGraph** to check inventory, create orders, answer product-related questions, and recommend the best products, achieving a **25% reduction in labor costs**.  
-- **Tech Stack:** LangChain, LangGraph, AWS, Snowflake MLOps  
+- **Description:** Implemented using **LangChain** and **LangGraph** to check inventory, create orders, answer product-related questions, and recommend the best products
+- **Tech Stack:** LangChain, LangGraph, Streamlit, Open AI 
 - **GitHub:** [Repo Link](https://github.com/chitrakumarsai/AI-Customer-Support)  
 
 
 ## Connect with me  
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0A66C2)](https://linkedin.com/in/chitrakumarsai)  
+[Portfolio](https://chitrakumarsai.github.io/)  
 
 Thanks for visiting my profile! Have a great day! 😊  
